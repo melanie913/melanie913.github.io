@@ -36,28 +36,19 @@
 	<slides>
 	
         <slide>
-            <url>images/slideTest.png</url>
-			
-
-
+            <url>images/mel_pic.jpg</url>
         </slide>
 		<!-- changing transition between first & second slide -->
         <transition num="3" slicing="vertical" direction="down"/>
+		
         <slide>
-       		<url>images/slideTest2.png</url>
-        </slide>		
+       		<url>images/giraffe2.png</url>
+        </slide>	
+		
 		<!-- changing transition between second & third slide -->
         <transition num="4" direction="right" shader="flat" />
 		<slide>
-            <url>images/slideTest3.png</url>
-        </slide>
-        <!-- transitions properties defined in transitions template -->
-		<slide>
-       		<url>images/slideTest4.png</url>
-        </slide>
-		<transition num="6" slicing="vertical" direction="up" shader="flat" delay="0.05" z_multiplier="4" />
-        <slide>
-       		<url>images/slideTest5.png</url>
+            <url>images/giraffe3.jpg</url>
         </slide>
 				
 	</slides>
